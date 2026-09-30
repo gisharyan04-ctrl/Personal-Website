@@ -131,10 +131,12 @@ function ContactSection() {
         </div>
         <div className="contact-cta">
           <p>Always happy to connect with curious people, fellow students, and anyone working at the intersection of people and technology.</p>
-          <a className="email-link" href="mailto:your.email@example.com">
-            your.email@example.com <ArrowUpRight aria-hidden="true" size={18} />
+          <a className="email-link" href="mailto:gisharyan04@gmail.com">
+            gisharyan04@gmail.com <ArrowUpRight aria-hidden="true" size={18} />
           </a>
-          <span className="email-hint">Replace with your email address</span>
+          <a className="email-link phone-link" href="tel:+18254616185" aria-label="Call Ryan at 825-461-6185">
+            825-461-6185 <ArrowUpRight aria-hidden="true" size={18} />
+          </a>
         </div>
       </div>
       <footer className="site-footer"><a className="footer-mark" href="#home">RGN</a><span>Made with curiosity in Edmonton, Alberta.</span><a href="#home">Back to top ↑</a></footer>

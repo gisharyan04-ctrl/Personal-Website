@@ -597,7 +597,7 @@
 }
 
 .email-link:hover { color: #b6ddc3 !important; }
-.email-hint { display: block; margin-top: 7px; color: #a7bbc8; font-size: 10px; }
+.phone-link { margin-top: 10px; }
 
 .site-footer {
   display: flex;
