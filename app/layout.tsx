@@ -3,8 +3,9 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Ryan Gisha Ndayishimiye | Psychology + Computer Science',
+  description:
+    'Ryan Gisha Ndayishimiye is a MacEwan University student exploring the intersection of psychology, computer science, and human-centered technology.',
   generator: 'v0.app',
   icons: {
     icon: [
